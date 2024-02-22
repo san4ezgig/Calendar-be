@@ -17,4 +17,6 @@ npm install
 ```
 
 ## Running
-Start the development server with `npm run dev`:
+Start the development server with `npm run dev`
+or
+Run the docker-compose file
